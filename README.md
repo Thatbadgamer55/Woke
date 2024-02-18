@@ -1,14 +1,8 @@
-# Woke
+
 <!DOCTYPE html>
 <html>
 <head>
 <br>
-        <style>
-            h1 {
-                text-align: center;
-				font-color: blue;
-            }
-        </style>
 <h1>Grassdale Users 2.0</h1>
 <br>
 <table>
